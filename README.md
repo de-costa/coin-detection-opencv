@@ -10,8 +10,6 @@ This project implements a coin detection system using classical computer vision 
 - Contour Area Filtering
 - Bounding Rectangle Visualization
 
-## 🛠 Technologies
-- Python
-- OpenCV
+
 
 
